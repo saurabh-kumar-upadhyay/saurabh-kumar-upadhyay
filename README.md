@@ -1,4 +1,4 @@
-👋 Hi there!, It's Saurabh
+👋 Hi there!
 
 <!---
 - 👀 I’m interested in ...
